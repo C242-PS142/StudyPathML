@@ -130,6 +130,9 @@ joblib.dump(scaler_y, 'scaler_y.pkl')
 
 ```
 
+## Link
+[Dataset](https://www.kaggle.com/datasets/tunguz/big-five-personality-test/data)
+
 ## Tools Used
 - Programming Language: Python 3.12.0
 - Libraries: TensorFlow, Keras, NumPy, pandas, scikit-learn, Matplotlib
